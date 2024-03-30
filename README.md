@@ -15,10 +15,9 @@ I'm a full-stack web developer from Ukraine working with React/Ruby on Rails sta
 
 1. JavaScript / TypeScript (I like the second one better 😁)
 2. React / Svelte / Vue (priority - React)
-3. Redux / Redux Toolkit
-4. Vite
-5. Tailwind
-6. MaterialUI / TailwindUI / ChakraUI (ChakraUI - my love ❤️)
+3. Redux / Redux Toolkit / RTK Query
+4. Tailwind
+5. MaterialUI / TailwindUI / ChakraUI (ChakraUI - my love ❤️)
 
 **Back-end:**
 
