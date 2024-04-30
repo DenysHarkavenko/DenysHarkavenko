@@ -10,9 +10,9 @@ I'm a Front-End developer from Ukraine! 🥰
 - ***harkavenkodev@gmail.com***
 
 ## My Stack:
-⚜️**Languages** JavaScript / TypeScript (I like the second one better 😁)<br/>
-⚜️**Frameworks** React / Svelte / Vue / Next.js<br/>
-⚜️**Tools/kits** Redux / Redux Toolkit / RTK Query<br/>
-⚜️**Style libs** Tailwind / Bootstrap <br/>
-⚜️**UI libs** MaterialUI / ChakraUI / Shadcn/ui<br/>
-⚜️**Deploy** Vercel / Netlify<br/>
+⚜️**Languages**:  JavaScript / TypeScript (I like the second one better 😁)<br/>
+⚜️**Frameworks**:  React / Svelte / Vue / Next.js<br/>
+⚜️**Tools/kits**:  Redux / Redux Toolkit / RTK Query<br/>
+⚜️**Style libs**:  Tailwind / Bootstrap <br/>
+⚜️**UI libs**:  MaterialUI / ChakraUI / Shadcn/ui<br/>
+⚜️**Deploy**:  Vercel / Netlify<br/>
