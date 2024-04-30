@@ -1,6 +1,6 @@
-# harkavenko_dev©️
+# harkavenko_dev 🤖
 
-Hello my unknown friend👋, my name Denys 🤖<br/>
+Hello my unknown friend👋, my name Denys ( ͡° ͜ʖ ͡°)<br/>
 I'm a Front-End developer from Ukraine! 🥰
 
 ## You can find me here:
