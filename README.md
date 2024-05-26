@@ -10,7 +10,7 @@ I'm a Front-End developer from Ukraine! 🥰
 - ***harkavenkodev@gmail.com***
 
 ## My Stack:
-⚜️**Languages**:  JavaScript / TypeScript (I like the second one better 😁)<br/>
+⚜️**Languages**:  JavaScript / TypeScript<br/>
 ⚜️**Frameworks**:  React / Svelte / Vue / Next.js<br/>
 ⚜️**Tools/kits**:  Redux / Redux Toolkit / RTK Query<br/>
 ⚜️**Style libs**:  Tailwind / Bootstrap <br/>
