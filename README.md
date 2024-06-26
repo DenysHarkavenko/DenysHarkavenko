@@ -11,8 +11,22 @@ I'm a Front-End developer from Ukraine! 🥰
 
 ## My Stack:
 ⚜️**Languages**:  JavaScript / TypeScript<br/>
-⚜️**Frameworks**:  React / Svelte / Vue / Next.js<br/>
+⚜️**Frameworks**:  React / Next.js<br/>
 ⚜️**Tools/kits**:  Redux / Redux Toolkit / RTK Query<br/>
 ⚜️**Style libs**:  Tailwind / Bootstrap <br/>
-⚜️**UI libs**:  MaterialUI / ChakraUI / Shadcn/ui<br/>
+⚜️**UI libs**:  MaterialUI / ChakraUI / Shadcn/ui / Framer<br/>
 ⚜️**Deploy**:  Vercel / Netlify<br/>
+
+## Experience:
+**Web Developer**
+*September 2022 - December 2023* - Full Time
+_Freelance_
+<br/><br/>
+**FullStack developer**
+*December 2023 - May 2024* - Full Time
+*December 2023 - Current* - Part Time
+_STUDINFO_
+<br/><br/>
+**FrontEnd developer**
+*May 2024 - Current* - Full Time
+_ACTSE_
