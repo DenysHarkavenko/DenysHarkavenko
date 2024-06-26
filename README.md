@@ -18,15 +18,15 @@ I'm a Front-End developer from Ukraine! 🥰
 ⚜️**Deploy**:  Vercel / Netlify<br/>
 
 ## Experience:
-**Web Developer**
-*September 2022 - December 2023* - Full Time
-_Freelance_
+**Web Developer**<br/>
+*September 2022 - December 2023* - Full Time<br/>
+_Freelance_<br/>
 <br/><br/>
-**FullStack developer**
-*December 2023 - May 2024* - Full Time
-*December 2023 - Current* - Part Time
-_STUDINFO_
+**FullStack developer**<br/>
+*December 2023 - May 2024* - Full Time<br/>
+*December 2023 - Current* - Part Time<br/>
+_STUDINFO_<br/>
 <br/><br/>
-**FrontEnd developer**
-*May 2024 - Current* - Full Time
+**FrontEnd developer**<br/>
+*May 2024 - Current* - Full Time <br/>
 _ACTSE_
