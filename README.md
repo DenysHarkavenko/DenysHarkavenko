@@ -24,7 +24,7 @@ _Freelance_<br/>
 <br/><br/>
 **FullStack developer**<br/>
 *December 2023 - May 2024* - Full Time<br/>
-*December 2023 - Current* - Part Time<br/>
+*May 2024 - Current* - Part Time<br/>
 _STUDINFO_<br/>
 <br/><br/>
 **FrontEnd developer**<br/>
