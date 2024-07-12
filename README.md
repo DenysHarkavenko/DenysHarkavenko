@@ -28,5 +28,5 @@ _Freelance_<br/>
 _STUDINFO_<br/>
 <br/><br/>
 **FrontEnd developer**<br/>
-*May 2024 - Current* - Full Time <br/>
+*April 2024 - Current* - Full Time <br/>
 _ACTSE_
