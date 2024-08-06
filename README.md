@@ -17,16 +17,3 @@ I'm a Front-End developer from Ukraine! 🥰
 ⚜️**UI libs**:  MaterialUI / ChakraUI / Shadcn/ui / Framer<br/>
 ⚜️**Deploy**:  Vercel / Netlify<br/>
 
-## Experience:
-**Web Developer**<br/>
-*September 2022 - December 2023* - Full Time<br/>
-_Freelance_<br/>
-<br/><br/>
-**FullStack developer**<br/>
-*December 2023 - May 2024* - Full Time<br/>
-*May 2024 - July 2024* - Part Time<br/>
-_STUDINFO_<br/>
-<br/><br/>
-**FrontEnd developer**<br/>
-*April 2024 - Current* - Full Time <br/>
-_ACTSE_
