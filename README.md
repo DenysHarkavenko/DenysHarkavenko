@@ -16,5 +16,5 @@ I'm a Front-End developer from Ukraine! 🥰
 ⚜️***Style libs***:  Tailwind, Scss<br/>
 ⚜️***UI libs***:  MaterialUI, ChakraUI, Shadcn, NextUI<br/>
 ⚜️***Deploy***:  Vercel, Netlify, Contabo(Ubuntu console)<br/>
-⚜️***Constructors***: Shopify, WordPress, Stripo<br/>
+⚜️***Builders***: Shopify, WordPress(Elementor), Stripo<br/>
 
