@@ -13,7 +13,7 @@ I'm a Front-End developer from Ukraine! 🥰
 ⚜️ ***Languages***:  JavaScript, TypeScript<br/>
 ⚜️ ***Frameworks***:  React, Next.js<br/>
 ⚜️ ***Tools/kits***:  Redux, Redux Toolkit, RTK Query, Framer Motion, Embla carousel, GA4, GTM, Microsoft clarity, Stripe<br/>
-⚜️ ***Style libs***:  Tailwind, Scss<br/>
+⚜️ ***Styles***:  Tailwind, Scss<br/>
 ⚜️ ***UI libs***:  MaterialUI, ChakraUI, Shadcn, NextUI<br/>
 ⚜️ ***Deploy***:  Vercel, Netlify, Contabo(Ubuntu console)<br/>
 ⚜️ ***Builders***: Shopify, WordPress(Elementor), Stripo<br/>
