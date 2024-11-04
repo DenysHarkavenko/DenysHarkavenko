@@ -1,7 +1,7 @@
 # harkavenko_dev 🤖
 
 Hello my dear friend 👋, my name Denys ( ͡° ͜ʖ ͡°)<br/>
-I'm a Front-End developer from Ukraine! 🥰
+I'm a Front-End developer! 🥰
 
 ## You can find me here:
 
