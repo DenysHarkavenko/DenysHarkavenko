@@ -1,5 +1,15 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1&pause=1000&color=628FDB&center=true&width=435&lines=Denys+Harkavenko" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDAE&center=true&width=435&lines=Front-end+web+and+app+developer;3%2B+years+of+development+" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=628FDB&center=true&vCenter=true&width=435&lines=Denys+Harkavenko" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDAE&center=true&vCenter=true&width=435&lines=Front-end+web+and+app+developer;3%2B+years+of+development" alt="Typing SVG" />
+  </a>
+</p>
+
 # harkavenko_dev 🤖
 
 Hello my dear friend 👋, my name Denys ( ͡° ͜ʖ ͡°)<br/>
