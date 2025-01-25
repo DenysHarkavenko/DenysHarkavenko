@@ -21,15 +21,33 @@ I'm a Front-End developer! 🥰
 - **[LinkedIn](https://www.linkedin.com/in/denys-harkavenko-52234a251/)** <br/>
 - ***harkavenkodev@gmail.com***
 
-## My Stack:
-⚜️ ***Languages***:  JavaScript, TypeScript<br/>
-⚜️ ***Frameworks***:  React, Next.js<br/>
-⚜️ ***Tools/kits***:  Redux, Redux Toolkit, RTK Query, Framer Motion, Embla carousel, GA4, GTM, Microsoft clarity, Stripe<br/>
-⚜️ ***Styles***:  Tailwind, Scss<br/>
-⚜️ ***UI libs***:  MaterialUI, ChakraUI, Shadcn, NextUI<br/>
-⚜️ ***Deploy***:  Vercel, Netlify, Contabo(Ubuntu console)<br/>
-⚜️ ***Builders***: Shopify, WordPress(Elementor), Stripo<br/>
+## ⚜️ My Stack ⚜️
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DenysHarkavenko&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="DenysHarkavenko's GitHub Stats" />
-</p>
+| **Category**      | **Technologies**                                                                                                                                               |
+|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Languages**      | JavaScript, TypeScript                                                                                                                                       |
+| **Frameworks**     | React, Next.js                                                                                                                                               |
+| **Tools/Kits**     | Redux, Redux Toolkit, RTK Query, Framer Motion, Embla carousel, GA4, GTM, Microsoft Clarity, Stripe                                                          |
+| **Styles**         | Tailwind, SCSS                                                                                                                                               |
+| **UI Libraries**   | MaterialUI, ChakraUI, Shadcn, NextUI                                                                                                                         |
+| **Deploy**         | Vercel, Netlify, Contabo (Ubuntu console)                                                                                                                    |
+| **Builders**       | Shopify, WordPress (Elementor), Stripo                                                                                                                       |
+
+<div align="space-between">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=DenysHarkavenko&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="DenysHarkavenko's GitHub Stats" />
+
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysHarkavenko&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="DenysHarkavenko's Most Used Languages" />
+
+</div>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <img src="https://github-readme-stats.vercel.app/api?username=DenysHarkavenko&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="DenysHarkavenko's GitHub Stats" />
+    </td>
+    <td align="right">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysHarkavenko&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="DenysHarkavenko's Most Used Languages" />
+    </td>
+  </tr>
+</table>
