@@ -33,15 +33,15 @@ I'm a Front-End developer! 🥰
 | **Deploy**         | Vercel, Netlify, Contabo (Ubuntu console)                                                                                                                    |
 | **Builders**       | Shopify, WordPress (Elementor), Stripo                                                                                                                       |
 
-<div align="space-between">
-
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DenysHarkavenko&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="DenysHarkavenko's GitHub Stats" />
+</p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysHarkavenko&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="DenysHarkavenko's Most Used Languages" />
+</p>
 
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysHarkavenko&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="DenysHarkavenko's Most Used Languages" />
 
-</div>
-<table width="100%">
+<!-- <table width="100%">
   <tr>
     <td align="left">
       <img src="https://github-readme-stats.vercel.app/api?username=DenysHarkavenko&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="DenysHarkavenko's GitHub Stats" />
@@ -50,4 +50,4 @@ I'm a Front-End developer! 🥰
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysHarkavenko&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="DenysHarkavenko's Most Used Languages" />
     </td>
   </tr>
-</table>
+</table> -->
