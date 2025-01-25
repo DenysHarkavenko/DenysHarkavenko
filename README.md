@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=628FDB&center=true&vCenter=true&width=435&lines=Denys+Harkavenko" alt="Typing SVG" />
-  </a>
+  <span style="font-size: 24px; color: #628FDB; font-family: Fira Code;">Denys Harkavenko</span>
 </p>
 
 <p align="center">
