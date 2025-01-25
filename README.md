@@ -18,4 +18,4 @@ I'm a Front-End developer! 🥰
 ⚜️ ***Deploy***:  Vercel, Netlify, Contabo(Ubuntu console)<br/>
 ⚜️ ***Builders***: Shopify, WordPress(Elementor), Stripo<br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=DenysHarkavenko&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="DenysHarkavenko's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=DenysHarkavenko&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" align="center" alt="DenysHarkavenko's GitHub Stats" />
