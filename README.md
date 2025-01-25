@@ -30,6 +30,6 @@
 | **Builders**       | Shopify, WordPress (Elementor), Stripo                                                                                                                       |
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DenysHarkavenko&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="DenysHarkavenko's GitHub Stats" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysHarkavenko&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="DenysHarkavenko's Most Used Languages" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DenysHarkavenko&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="DenysHarkavenko's GitHub Stats"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysHarkavenko&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="DenysHarkavenko's Most Used Languages" />
 </p>
