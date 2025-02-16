@@ -15,7 +15,7 @@
 
 ## You can find me here:
 
-- **[Telegram](https://t.me/de0nn1s)** <br/>
+- **[Telegram](https://t.me/DenysHarkavenko)** <br/>
 - **[LinkedIn](https://www.linkedin.com/in/denys-harkavenko-52234a251/)** <br/>
 - ***harkavenkodev@gmail.com***
 
