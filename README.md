@@ -25,9 +25,9 @@
 | **Frameworks**     | React, Next.js                                                                                                                                               |
 | **Tools/Kits**     | Redux, Redux Toolkit, RTK Query, Framer Motion, Embla carousel, GA4, GTM, Microsoft Clarity, Stripe                                                          |
 | **Styles**         | Tailwind, SCSS                                                                                                                                               |
-| **UI Libraries**   | MaterialUI, ChakraUI, Shadcn, NextUI                                                                                                                         |
+| **UI Libraries**   | MaterialUI, ChakraUI, Shadcn, NextUI, HeroUi                                                                                                                 |
 | **Deploy**         | Vercel, Netlify, Contabo (Ubuntu console)                                                                                                                    |
-| **Builders**       | Shopify, WordPress (Elementor), Stripo                                                                                                                       |
+| **Builders**       | Shopify, WordPress (Elementor), Squarespace, Stripo                                                                                                          |
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DenysHarkavenko&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="DenysHarkavenko's GitHub Stats"  height="180" />
