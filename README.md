@@ -19,11 +19,11 @@
 - **[LinkedIn](https://www.linkedin.com/in/denys-harkavenko-52234a251/)** <br/>
 - ***harkavenkodev@gmail.com***
 
-| **Category**      | **Technologies**                                                                                                                                               |
-|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Category**       | **Technologies**                                                                                                                                             |
+|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Languages**      | JavaScript, TypeScript                                                                                                                                       |
 | **Frameworks**     | React, Next.js                                                                                                                                               |
-| **Tools/Kits**     | Redux, Redux Toolkit, RTK Query, Framer Motion, Embla carousel, GA4, GTM, Microsoft Clarity, Stripe                                                          |
+| **Tools/Kits**     | Redux, Redux Toolkit, RTK Query, Framer Motion, Embla carousel, Stripe                                                                                       |
 | **Styles**         | Tailwind, SCSS                                                                                                                                               |
 | **UI Libraries**   | MaterialUI, ChakraUI, Shadcn, NextUI, HeroUi                                                                                                                 |
 | **Deploy**         | Vercel, Netlify, Contabo (Ubuntu console)                                                                                                                    |
