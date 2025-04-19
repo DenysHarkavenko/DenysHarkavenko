@@ -13,18 +13,58 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5qcWxvaDF2dmJkM2pjNmsxY2phdHN4dTJxZmMyZ2p0eTNjZ2kwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k81NasbqkKA5HSyJxN/giphy.gif" alt="Logo" />
 </p>
 
-## You can find me here:
+---
 
-- **[Telegram](https://t.me/DenysHarkavenko)** <br/>
-- **[LinkedIn](https://www.linkedin.com/in/denys-harkavenko-52234a251/)** <br/>
-- ***harkavenkodev@gmail.com***
+## 🧠 My Stack
 
-| **Category**       | **Technologies**                                                                                                                                             |
-|--------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**      | JavaScript, TypeScript                                                                                                                                       |
-| **Frameworks**     | React, Next.js                                                                                                                                               |
-| **Tools/Kits**     | Redux, Redux Toolkit, RTK Query, Framer Motion, Embla carousel, Stripe                                                                                       |
-| **Styles**         | Tailwind, SCSS                                                                                                                                               |
-| **UI Libraries**   | MaterialUI, ChakraUI, Shadcn, NextUI, HeroUi                                                                                                                 |
-| **Deploy**         | Vercel, Netlify, Contabo (Ubuntu console)                                                                                                                    |
-| **Builders**       | Shopify, WordPress (Elementor), Squarespace, Stripo                                                                                                          |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,ruby,rails,vercel" alt="Tech Stack" />
+</p>
+
+> Bonus: I ❤️ working with `shadcn/ui`, Framer Motion, and RTK Query for sleek, interactive UI experiences.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=denysharkavenko&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=denysharkavenko&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denysharkavenko&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🚀 Projects I'm Proud Of
+
+- 🌐 [**NovaLink Wireless**](https://www.novalinkwireless.com/)  
+  A B2B website for a telecommunications company. Built with **Next.js**, **Tailwind CSS**, and **Framer Motion** animations.
+
+- 📦 [**Farfill**](https://farfill.com/)  
+  An eCommerce fulfillment platform with Shopify and Stripe integrations. Developed using **Next.js**, **RTK Query**, and **shadcn/ui**.
+
+- 🏝️ [**BERO Experiences**](https://www.beroexperiences.com/)  
+  A booking platform for travel experiences with map integration and server-side rendering. Built with **React**, **Next.js**, and **Tailwind**.
+
+- 🏢 [**Find Businesses 4 Sale**](https://www.findbusinesses4sale.com/)  
+  A marketplace for buying and selling businesses. Features advanced filters, SEO optimization, and dynamic content loading. Built using **Next.js**, **TypeScript**, and **Tailwind**.
+
+---
+
+## 📫 Let's Connect
+
+- 💬 **[Telegram](https://t.me/DenysHarkavenko)**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/denys-harkavenko-52234a251/)**
+- 📧 **harkavenkodev@gmail.com**
+
+---
+
+## 😄 Fun Corner
+
+> “Programs must be written for people to read, and only incidentally for machines to execute.” — *Harold Abelson*
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Joke" />
+</p>
