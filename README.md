@@ -61,10 +61,10 @@
 
 ---
 
-## 😄 Fun Corner
+<!-- ## 😄 Fun Corner
 
 > “Programs must be written for people to read, and only incidentally for machines to execute.” — *Harold Abelson*
 
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Joke" />
-</p>
+</p>-->
