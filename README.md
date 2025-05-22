@@ -18,7 +18,7 @@
 ## 🧠 My Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,materialui,postgres,graphql,vercel,figma,redux,pnpm" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind,postgres,graphql,vercel,figma,redux,pnpm" alt="Tech Stack" />
 </p>
 
 > Bonus: I ❤️ working with `shadcn/ui`, Framer Motion, and RTK Query for sleek, interactive UI experiences.
