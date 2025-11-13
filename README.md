@@ -37,22 +37,6 @@
 
 ---
 
-## 🚀 Projects I'm Proud Of
-
-- 🌐 [**NovaLink Wireless**](https://www.novalinkwireless.com/)  
-  A B2B website for a telecommunications company.
-
-- 📦 [**Farfill**](https://farfill.com/)  
-  An eCommerce fulfillment platform=.
-
-- 🏝️ [**BERO Experiences**](https://www.beroexperiences.com/)  
-  A booking platform for travel experiences with map integration and server-side rendering.
-
-- 🏢 [**Find Businesses 4 Sale**](https://www.findbusinesses4sale.com/)  
-  A marketplace for buying and selling businesses. Features advanced filters, SEO optimization, and dynamic content loading.
-
----
-
 ## 📫 Let's Connect
 
 - 💬 **[Telegram](https://t.me/DenysHarkavenko)**
